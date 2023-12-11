@@ -7,7 +7,8 @@
     10px 10px 70px #54aebb7b,
     inset -5px -5px 15px #00000094,
     inset 5px 5px 15px #020202b5;
-  background: transparent
+  background: transparent;
+  margin: 50px 0;
 }
 
 .head{
@@ -35,7 +36,7 @@
 }
 
 .encoche{
-  width: 50%;
+  width: 40%;
   height: 30px;
   display: flex;
   background-color: #000000;
@@ -51,9 +52,13 @@
   border-radius: 20px;
   background-color: #424242;
 }
+.head p{
+  margin: auto;
+}
 
 .icons{
   padding: 0 15px;
+  margin: auto;
 }
 
 .keypad {

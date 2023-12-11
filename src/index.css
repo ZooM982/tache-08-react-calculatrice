@@ -12,8 +12,6 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
-  height: auto;
-  margin-top: 50px;
   align-items: center;
   justify-content: center;
 }
